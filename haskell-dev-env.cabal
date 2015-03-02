@@ -12,7 +12,7 @@ executable haskell-dev-env
   main-is:                  Main.hs
   build-depends:            base >= 4.7 && < 4.8,
                             cabal-install == 1.18.0.8,
-                            codex == 0.2.0.2,
+                            codex == 0.2.1.4,
                             haddock == 2.15.0.1,
                             hasktags == 0.69.0,
                             hdevtools == 0.1.0.6,
