@@ -17,6 +17,7 @@ executable haskell-dev-env
                             hasktags == 0.69.0,
                             hdevtools == 0.1.0.6,
                             ghc-mod == 5.2.1.2,
+                            gtk2hs-buildtools == 0.13.0.3,
                             leksah == 0.14.4.0,
                             stylish-haskell == 0.5.11.0
   default-language:         Haskell2010
